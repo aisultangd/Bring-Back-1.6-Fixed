@@ -1,4 +1,5 @@
-# Bring-Back-1.6-Fixed
+# BringBack1.6 Mod
+
 Welcome to **BringBack1.6**, a Geometry Dash mod that brings back the nostalgic look and feel of older versions (like 1.6 and 2.2) to specific UI layers. This mod modifies the `LevelInfoLayer`, `CreatorLayer`, and `EditorPauseLayer` with toggleable "old style" layouts, complete with a handy button to switch between styles on the fly.
 
 Laugh at Noxy "shit code" if you want to
@@ -85,6 +86,5 @@ Check out the source code to see bad code but functional. Contributions welcome.
 ## Credits
 
 - **Original Developer**: [noxygalaxy](https://github.com/noxygalaxy)
-- **Developer of fixed version**: [AisultanGD] (https://github.com/aisultanazat3-hash)
+- **Developer of fixed version**: [AisultanGD] ()
 - **Inspiration**: Nostalgia for Geometry Dash 1.6.
-

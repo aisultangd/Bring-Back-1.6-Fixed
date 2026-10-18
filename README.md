@@ -25,7 +25,7 @@ This mod is Compatible with next mods:
    - Install the [Geode SDK](https://geode-sdk.org/) for Geometry Dash.
 
 2. **Download**:
-   - Grab the latest release from the [Releases page](https://github.com/noxygalaxy/bringback1.6/). ["Direct Download"](https://github.com/noxygalaxy/bringback1.6/releases/latest/download)
+   - Grab the latest release from the [Releases page](https://github.com/aisultangd/Bring-Back-1.6-Fixed).
 
 3. **Install**:
    - Place the `.geode` file in your Geometry Dash `mods` folder.

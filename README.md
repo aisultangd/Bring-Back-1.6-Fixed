@@ -26,7 +26,7 @@ This mod is Compatible with next mods:
    - Install the [Geode SDK](https://geode-sdk.org/) for Geometry Dash.
 
 2. **Download**:
-   - Grab the latest release from the [Releases page](https://github.com/aisultangd/Bring-Back-1.6-Fixed).
+   - Grab the latest release from the [Releases page]([https://github.com/aisultangd/Bring-Back-1.6-Fixed/releases].
 
 3. **Install**:
    - Place the `.geode` file in your Geometry Dash `mods` folder.
@@ -44,25 +44,7 @@ This mod is Compatible with next mods:
 
 ## Screenshots
 
-### LevelInfoLayer
-- **2.2 Style**  
-  ![LevelInfoLayer Modern](images/levelinfolayer_modern.png)
-- **1.6 Style**  
-  ![LevelInfoLayer Old](images/levelinfolayer_old.png)
-
-### CreatorLayer
-- **2.2 Style**  
-  ![CreatorLayer Modern](images/creatorlayer_modern.png)
-- **1.6 Style**  
-  ![CreatorLayer Old](images/creatorlayer_old.png)
-
-### EditorPauseLayer
-- **2.2 Style**  
-  ![EditorPauseLayer Modern](images/editorpauselayer_modern.png)
-- **1.6 Style**  
-  ![EditorPauseLayer Old](images/editorpauselayer_old.png)
-
----
+sorry but no
 
 ## Settings
 
@@ -88,5 +70,5 @@ Check out the source code to see bad code but functional. Contributions welcome.
 ## Credits
 
 - **Original Developer**: [noxygalaxy](https://github.com/noxygalaxy)
-- **Developer of fixed version**: [AisultanGD] (https://github.com/aisultangd)
+- **Developer of fixed version**: [AisultanGD](https://aisultangd.github.io)
 - **Inspiration**: Nostalgia for Geometry Dash 1.6.

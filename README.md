@@ -1,4 +1,4 @@
-[!WARNING]
+> [!WARNING]
 > **Geode is currently broken** because Geometry Dash updated to **2.2091** and Geode has not updated yet. Please wait for the official Geode update before using this mod!
 # BringBack1.6 Mod
 

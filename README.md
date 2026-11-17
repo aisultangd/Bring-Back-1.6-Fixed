@@ -1,4 +1,5 @@
-WARNING: GEODE IS BROKEN BECAUSE GD UPDATED TO 2.209 SO PLEASE WAIT UNTIL GEODE UPDATES
+[!WARNING]
+> **Geode is currently broken** because Geometry Dash updated to **2.2091** and Geode has not updated yet. Please wait for the official Geode update before using this mod!
 # BringBack1.6 Mod
 
 Welcome to **BringBack1.6**, a Geometry Dash mod that brings back the nostalgic look and feel of older versions (like 1.6 and 2.2) to specific UI layers. This mod modifies the `LevelInfoLayer`, `CreatorLayer`, and `EditorPauseLayer` with toggleable "old style" layouts, complete with a handy button to switch between styles on the fly.
